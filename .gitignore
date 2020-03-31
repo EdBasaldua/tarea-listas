@@ -1,0 +1,14 @@
+node_modules/
+
+dist/
+
+
+notas/
+
+src/
+
+.babelrc
+
+package-lock.json
+webpack.config.js
+webpack.prod.js
